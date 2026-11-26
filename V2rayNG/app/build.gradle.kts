@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.v2ray.ang"
+        applicationId = "com.dafvpn.ang"
         minSdk = 24
         targetSdk = 37
         versionCode = 762
